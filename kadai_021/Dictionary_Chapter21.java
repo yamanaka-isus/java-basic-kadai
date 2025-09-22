@@ -17,7 +17,7 @@ public class Dictionary_Chapter21 {
 		dic.put("kiwi", "キウィ");
 		dic.put("strawberry", "いちご");
 		dic.put("grape", "ぶどう");
-		dic.put("muscut", "マスカット");
+		dic.put("muscat", "マスカット");
 		dic.put("cherry", "さくらんぼ");
 	}
 
